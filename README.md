@@ -6,6 +6,8 @@ CARLA is an open-source simulator for autonomous driving research. CARLA has bee
 ## What is this Capstone Project?
 This Capstone project is attempting to integrate real hardware used in cars to connect with CARLA to create a Hardware-In-The-Loop environment. Additionally, it aims to improve the software to bring a more realistic and more modern features for the user to interact with.
 
+Product Demo: https://www.youtube.com/watch?v=BYZjrAzC4iY
+
 ## Software Features
 - Lane Assist
 - Attention Detection System
